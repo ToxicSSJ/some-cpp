@@ -1,0 +1,6 @@
+.git
+bin
+obj
+
+testing-cplusplus.cbp
+testing-cplusplus.layout
