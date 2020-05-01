@@ -1,3 +1,10 @@
+/*
+ * 1/05/2020
+ * some-cpp
+ * Abraham M. Lora
+ *
+ */
+
 #include <iostream>
 
 using namespace std;
